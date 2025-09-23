@@ -1,0 +1,30 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+
+# Eclipse/STS
+.classpath
+.project
+.settings/
+.springBeans
+
+# IntelliJ IDEA (optional, if you use it)
+*.iml
+.idea/
+*.iws
+*.ipr
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Lombok
+lombok.config
+
+# Others
+*.swp
+
